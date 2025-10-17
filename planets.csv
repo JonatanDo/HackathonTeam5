@@ -1,0 +1,9 @@
+planet,has_rings,moons
+Mercury,no,0
+Venus,no,0
+Earth,no,1
+Mars,no,2
+Jupiter,yes,95
+Saturn,yes,146
+Uranus,yes,27
+Neptune,yes,14
